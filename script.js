@@ -134,7 +134,6 @@ $(document).ready(function() {
       
       activePanel.find('label:has(input[value="correct"]:checkbox:checked)').next().removeClass('hide');
       activePanel.find('input[name=moveOn]').val('true');
-      
      
     }
     
@@ -258,4 +257,7 @@ $(document).ready(function() {
     }
   });
   
+
+
+
 });

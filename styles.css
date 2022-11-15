@@ -13,9 +13,16 @@ button {
     border-radius: 4px;
     border: 1px solid #CBCBCB;
 }
+button.restart {
+    padding: 5px 10px;
+    margin: 15px auto;
+    width: 150px;
+    background-color: #E0E0E0;
+    border-radius: 4px;
+    border: 1px solid #CBCBCB;
+}
 img {
     width: 100%;
-    max-width: 650px;
 }
 img.icon {
     height: 50px;
